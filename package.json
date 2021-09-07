@@ -1,0 +1,24 @@
+{
+  "name": "kawagutitestbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/bolt": "^3.6.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaguti/kawagutitestbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawaguti/kawagutitestbot/issues"
+  },
+  "homepage": "https://github.com/kawaguti/kawagutitestbot#readme"
+}
