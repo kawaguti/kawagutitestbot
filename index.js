@@ -14,6 +14,11 @@ app.message('大島さん', async ({ message, say }) => {
     // say() sends a message to the channel where the event was triggered
     await say(`児島だよ!`);
   });
+app.message('児島さん', async ({ message, say }) => {
+    // say() sends a message to the channel where the event was triggered
+    await say(`そうだよ!`);
+  });
+
   
   (async () => {
     // Start your app
